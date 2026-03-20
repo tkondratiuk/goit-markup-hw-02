@@ -36,6 +36,9 @@ a {
   color: #404bbf;
 }
 
+.address-link {
+  color: #434455;
+}
 
 .address-link:hover,
 .address-link:focus {
